@@ -17,8 +17,21 @@ h4 a {
   color: #BF5700;
 }
 h4 {
-  margin-bottom: 0;
+  margin: 0;
 }
 .info {
-  margin-top: 0;
+  margin: 0;
+}
+.first-story {
+  background-color: #D3D3D3;
+  padding: 10px;
+}
+div {
+  margin-top: 20px;
+}
+.byline.one {
+  font-size: 17px;
+}
+.headline-one a {
+  font-size: 35px;
 }
