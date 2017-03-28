@@ -53,3 +53,18 @@ ul {
 body {
   background-color: grey;
 }
+.left-column {
+  width: 70%;
+  float: left;
+  padding-right: 30px;
+}
+.right-column {
+  width: 30%;
+  float: right;
+}
+* {
+  box-sizing: border-box;
+}
+.clearfix {
+  overflow: auto;
+}
