@@ -35,3 +35,12 @@ div {
 .headline-one a {
   font-size: 35px;
 }
+.online {
+  border-bottom: 2px solid black;
+  margin-top: 10px;
+  margin-bottom: 0;
+  padding: 5px;
+}
+ul {
+  margin-top: 5px;
+}
